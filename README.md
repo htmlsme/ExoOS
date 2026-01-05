@@ -1,6 +1,6 @@
-# ExoOS - An operating system projects
+# ExoOS - An operating system project
 
-Its a hobby project so dont expect it to be insanely proficent, optimized, and totally bug free. (Or even expect it to be finished cuz I get burnt out easily)
+Its a hobby project so dont expect it to be insanely proficent, optimized, and totally bug free. (Or even expect it to be finished cuz I get burnt out easily sorry :/)
 
 # Prerequisites
 
@@ -27,8 +27,11 @@ Its a hobby project so dont expect it to be insanely proficent, optimized, and t
 I guess have better specs than what i have.
 
 CPU: AMD E2-1800 1.7GHz APU
+
 (i)GPU: Radeon HD 7340
+
 RAM: 8GB DDR3 SO-DIMM 1600hz PC3-12800
+
 STORAGE: 320GB SATA HDD
 
 # Credits
