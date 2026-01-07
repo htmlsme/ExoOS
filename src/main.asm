@@ -5,7 +5,6 @@ jmp main
 
 msg: db "Booting ExoOS..." ; Message to print to the screen
 endmsg:
-  hlt
 
 main:
   mov bx, 0x000F ; set to page 0 and color 15 for white
@@ -38,7 +37,12 @@ char:
 skip:
   cmp si, endmsg
   jne char
-  jmp print
+  jmp .done
+
+.done:
+  cli
+  hlt
+  jmp .done
 
 jmp $
 
